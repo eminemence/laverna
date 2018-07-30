@@ -1,3 +1,7 @@
+# Laverna-ng - The next gen note taking web app
+Feature list ..coming soon.
+
+
 # Laverna - note taking web app
 
 [![Join the chat at https://gitter.im/Laverna/laverna](https://badges.gitter.im/Laverna/laverna.svg)](https://gitter.im/Laverna/laverna?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
